@@ -1,0 +1,10 @@
+com\mycompany\mavenproject5\AppUserController.class
+com\mycompany\mavenproject5\AppUserController$AppUserControllerConverter.class
+com\mycompany\mavenproject5\util\JsfUtil.class
+com\mycompany\mavenproject5\AbstractFacade.class
+com\mycompany\mavenproject5\AppUser.class
+com\mycompany\mavenproject5\resources\JavaEE8Resource.class
+com\mycompany\mavenproject5\AppUserController$1.class
+com\mycompany\mavenproject5\AppUserFacade.class
+com\mycompany\mavenproject5\JAXRSConfiguration.class
+com\mycompany\mavenproject5\util\PaginationHelper.class

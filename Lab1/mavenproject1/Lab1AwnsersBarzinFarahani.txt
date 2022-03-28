@@ -1,0 +1,7 @@
+The differences between the first and second program were as follows
+-In Address book there is error checking while in the program that I created dose not
+-In addition to having no error detection the entity created with errors is still added to the index
+-I also can add my own id for my program while in address book it is auto generated
+-In the maven 1 project that I created only has error checking for the id
+-The font for lab1 is also a different size and colour than address book
+-The background colour has changed and is also missing the header line
